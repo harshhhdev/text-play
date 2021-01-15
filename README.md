@@ -29,7 +29,7 @@ Enter your text to memify:
 Hello World!
 
 # output 
-=> HellO wORLd!!
+=> HellO wORLd!
 ```
 
 # Building :rocket:
